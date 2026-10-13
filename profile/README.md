@@ -6,7 +6,7 @@ TitrateLab is not a vendor, a paid-review site or an influencer brand. It sells 
 
 ## What is published here
 
-- [peptide-coa-analysis](https://github.com/titratelab/peptide-coa-analysis): open analysis of the public lab-report corpus. Vendor-blind aggregates by compound, laboratory and month, released monthly with a manifest, a data dictionary and the method behind every number. Data under CC BY 4.0, code under MIT.
+- [peptide-coa-analysis](https://github.com/TitrateLab/peptide-coa-analysis): statistics from more than 100,000 published peptide lab reports, the largest open view of public certificate-of-analysis evidence for research peptides. Purity, quantity versus label and endotoxin testing by compound, laboratory and month, vendor-blind, released monthly with a manifest, a data dictionary, a datasheet and the method behind every number. Data under CC BY 4.0, code under MIT.
 
 ## Where the evidence lives
 
